@@ -7,10 +7,10 @@ Created on Thu Dec 24 16:21:48 2015
 
 
 from twilio.rest import TwilioRestClient
-accountSID = 'ACa9b83f8b99a5365d30748c464ae3220d'
-authToken = '7e15e3a96285446ee1a3ac06b53661c4'
-myTwilioNumber = '+14155992671'
-myCellPhone = '+16094059238'
+accountSID = '#######################'
+authToken = '############################'
+myTwilioNumber = '+########################'
+myCellPhone = '+###########################'
 
 
 def text_myself(message):
